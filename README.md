@@ -43,21 +43,9 @@
 
 
 ## ⚡ Installation
-
-Clone and build from source:
-
-git clone https://github.com/S1N6H/Barcha.git
-
-cd Barcha
-
-go mod init github.com/s1n6h/barcha
-
-go mod tidy
-
-go build -o barcha main.go
-
-Or install directly via Go modules:
-
+```bash
+go install github.com/S1N6H/Barcha@latest
+```
 
 
 🏃 Usage
